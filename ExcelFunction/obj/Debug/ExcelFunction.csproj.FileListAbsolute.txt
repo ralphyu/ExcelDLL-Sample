@@ -1,0 +1,12 @@
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\CRMDemo\ExcelFunction\ExcelFunction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\CRMDemo\ExcelFunction\ExcelFunction\bin\Debug\ExcelFunction.dll
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\CRMDemo\ExcelFunction\ExcelFunction\bin\Debug\ExcelFunction.pdb
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\CRMDemo\ExcelFunction\ExcelFunction\obj\Debug\ExcelFunction.dll
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\CRMDemo\ExcelFunction\ExcelFunction\obj\Debug\ExcelFunction.pdb
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\CRMDemo\ExcelFunction\ExcelFunction\bin\Debug\ExcelFunction.tlb
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\obj\Debug\ExcelFunction.dll
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\obj\Debug\ExcelFunction.pdb
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\bin\Debug\ExcelFunction.dll
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\bin\Debug\ExcelFunction.pdb
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\bin\Debug\ExcelFunction.tlb
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\obj\Debug\ExcelFunction.csprojAssemblyReference.cache

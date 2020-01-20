@@ -1,0 +1,4 @@
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\bin\Release\ExcelFunction.dll
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\bin\Release\ExcelFunction.pdb
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\obj\Release\ExcelFunction.dll
+D:\Ralph\DeskTop\ExcelFunction\ExcelFunction\obj\Release\ExcelFunction.pdb

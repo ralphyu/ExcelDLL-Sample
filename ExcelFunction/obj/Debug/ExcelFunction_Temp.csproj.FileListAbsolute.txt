@@ -1,0 +1,4 @@
+D:\Ralph\OneDrive\Work\Code\GitHub\ExcelDLL template\ExcelFunction\bin\Debug\ExcelFunction_Temp.dll
+D:\Ralph\OneDrive\Work\Code\GitHub\ExcelDLL template\ExcelFunction\bin\Debug\ExcelFunction_Temp.pdb
+D:\Ralph\OneDrive\Work\Code\GitHub\ExcelDLL template\ExcelFunction\obj\Debug\ExcelFunction_Temp.dll
+D:\Ralph\OneDrive\Work\Code\GitHub\ExcelDLL template\ExcelFunction\obj\Debug\ExcelFunction_Temp.pdb
